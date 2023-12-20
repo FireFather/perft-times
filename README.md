@@ -1,5 +1,6 @@
 ## perft speeds
 depth 7
+Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz, RAM 32.0 GB, 64-bit Windows 11
 |          |          |          | 
 | -------- | -------- | -------- | 
 |1|gigantua|2.70|
