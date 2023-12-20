@@ -1,4 +1,74 @@
 # perft
-#### depth 7 (secs.)
-  
-![image](https://github.com/FireFather/perft/assets/3767526/2888897b-968b-42d2-8e51-1815e5db1b0f)
+depth 7
+|          |          | 
+| -------- | -------- | 
+|gigantua|2.70|
+|zerologic|3.50|
+|osama|5.19|
+|paladin|5.48|
+|xiphos|6.23|
+|spark|9.51|
+|perft|10.62|
+|surge|10.88|
+|sf-7|12.00|
+|anka|12.40|
+|fire|13.62|
+|octochess|14.30|
+|beef|14.58|
+|bitbit|14.69|
+|rofchade|14.74|
+|andscacs|15.66|
+|razer|15.75|
+|kuma|15.80|
+|stonechess|15.95|
+|bb_perft|16.49|
+|vajolet|16.96|
+|chess.dot.cpp|19.50|
+|winter|22.73|
+|weak|23.37|
+|bobcat|23.53v
+|absolute zero|25.45|
+|meetra|28.14|
+|schooner|28.25|
+|napoleon|29.06|
+|strategem|37.86|
+|fortuna|38.42|
+|obsidian|42.08|
+|chessnut|44.10|
+|halogen|46.02|
+|casan|50.41|
+|cerulean|52.02|
+|wyldchess|53.67|
+|mperft|55.39v
+|murka|58.84|
+|m24gc|61.47|
+|monilith|62.20|
+|axon|67.56|
+|fridolin|76.05|
+|mr.bob|77.10|
+|perseus|82.58v
+|shallow-blue|89.77|
+|chessai|90.00|
+|laser|91.11|
+|apollo|92.07|
+|lime|97.30|
+|simplechess|99.30|
+|butter|99.41|
+|neuromancer|108.00|
+|outofstockfish|112.97|
+|hakkapeliitta|126.68|
+|zappa|132.45|
+|mini-rodent|133.00|
+|kingfisher|140.62|
+|renegade|156.67|
+|antares|166.93|
+|vice|175.44|
+|chai|193.70|
+|delocto|215.52|
+|nemorino|260.02|
+|snowy|302.17|
+|nopy++|326.07|
+|byteboard|350.83|
+|teki2|431.39|
+|demon|559.11|
+|fc0|1168.00|
