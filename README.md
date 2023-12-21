@@ -1,4 +1,4 @@
-## perft times
+## perft-times (secs.)
 Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz
 
 depth 7
